@@ -28,12 +28,6 @@ The Web Crawler is a powerful cybersecurity tool that allows you to crawl the we
    cd web-crawler
    ```
 
-3. Install the required dependencies:
-
-   ```shell
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 ### Basic Usage
