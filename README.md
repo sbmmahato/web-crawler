@@ -25,7 +25,7 @@ The Web Crawler is a powerful cybersecurity tool that allows you to crawl the we
 2. Change to the project directory:
 
    ```shell
-   cd webcrawler
+   cd web-crawler
    ```
 
 3. Install the required dependencies:
