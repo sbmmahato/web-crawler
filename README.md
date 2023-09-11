@@ -46,6 +46,8 @@ python3 webcrawler.py https://example.com
 
 Replace `https://example.com` with the URL you want to start crawling from. The tool will start the crawl and display the discovered links on the terminal.
 
+The file with the list of the crawled websites then gets saved in web-crawler/recon/{folder named as the domain}/crawler_output.txt
+
 
 ## Credit
 
