@@ -19,7 +19,7 @@ The Web Crawler is a powerful cybersecurity tool that allows you to crawl the we
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/webcrawler.git
+   git clone https://github.com/sbmmahato/webcrawler.git
    ```
 
 2. Change to the project directory:
